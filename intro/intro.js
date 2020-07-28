@@ -13,5 +13,7 @@ function expect(value) {
 const sum = (a, b) => a + b;
 const nativeNull = () => null;
 
-console.log("Result: ", sum(3, 2));
-expect(sum(3, 2)).toBe(5);
+module.exports = { sum, nativeNull };
+
+// console.log("Result: ", sum(3, 2));
+// expect(sum(3, 2)).toBe(5);

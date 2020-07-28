@@ -1,0 +1,25 @@
+{
+  "name": "js_with_jest",
+  "version": "1.0.0",
+  "description": "Jest intro",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladyslavGit/js_with_jest.git"
+  },
+  "keywords": [
+    "js",
+    "jest",
+    "unit",
+    "testing"
+  ],
+  "author": "Vladyslav <v@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VladyslavGit/js_with_jest/issues"
+  },
+  "homepage": "https://github.com/VladyslavGit/js_with_jest#readme"
+}
